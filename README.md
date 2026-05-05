@@ -66,3 +66,9 @@ Herramientas utilizadas
 
 * Python (pandas, matplotlib)
 * Jupyter Notebook
+
+Insights clave
+-La categoría Technology lidera tanto en ventas como en rentabilidad, siendo el principal motor del negocio.
+-Subcategorías como Tables y Bookcases generan pérdidas significativas a pesar de tener ventas.
+-Existe una relación negativa entre el descuento y la ganancia: descuentos mayores al 30% generan pérdidas.
+-Productos como Copiers y Phones destacan como los más rentables.
